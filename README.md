@@ -60,7 +60,3 @@ git clone https://github.com/GAGGZ1/random-rgb-color-generator.git
 ## 🙌 Contributing
 
 If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
