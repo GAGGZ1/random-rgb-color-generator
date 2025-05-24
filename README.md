@@ -1,5 +1,4 @@
 
-```markdown
 # 🎨 Random RGB Color Generator
 
 A simple JavaScript project that generates random RGB colors and updates the page background with the generated color. It's perfect for beginners learning how to manipulate the DOM and understand RGB color formatting in CSS.
@@ -19,7 +18,8 @@ A simple JavaScript project that generates random RGB colors and updates the pag
 
 ## 📸 Demo
 
-<!-- ![Demo Screenshot](demo-screenshot.png) *(Add your screenshot here)* -->
+<img width="1446" alt="Screenshot 2025-05-24 at 12 53 43 PM" src="https://github.com/user-attachments/assets/9c86589e-2858-4f71-b5ce-d280fa367c86" />
+
 
 ## 🔧 How It Works
 
